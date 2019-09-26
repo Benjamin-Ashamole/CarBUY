@@ -1,0 +1,22 @@
+html {
+	overflow-y:scroll;
+}
+
+body {
+	margin-top: 70px;
+	background-color: rgba(41, 45, 46,1)
+}
+
+.navigation-bar {
+	background-color: rgba(3, 194, 252, 1);
+	color: black;
+}
+
+.corso {
+	color: rgba(3, 194, 252, 1);
+}
+
+
+.tagline {
+	background-color: rgba(3, 194, 252, 1);
+}
